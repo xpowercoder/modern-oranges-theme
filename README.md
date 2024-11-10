@@ -1,7 +1,6 @@
 # Modern Oranges
 
-
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/xpowercoder.modern-oranges.svg)](https://marketplace.visualstudio.com/items/xpowercoder.modern-oranges) [![Installs](https://vsmarketplacebadge.apphb.com/installs/xpowercoder.modern-oranges.svg)](https://marketplace.visualstudio.com/items/xpowercoder.modern-oranges) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/xpowercoder.modern-oranges.svg)](https://marketplace.visualstudio.com/items/xpowercoder.modern-oranges)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/xpowercoder.modern-oranges) [![Version](https://vsmarketplacebadges.dev/version/xpowercoder.modern-oranges.png)](https://marketplace.visualstudio.com/items?itemName=xpowercoder.modern-oranges) [![Installs](https://vsmarketplacebadges.dev/installs/xpowercoder.modern-oranges.png)](https://marketplace.visualstudio.com/items?itemName=xpowercoder.modern-oranges)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/xpowercoder/modern-oranges-theme/master/icon.png" width="64">
